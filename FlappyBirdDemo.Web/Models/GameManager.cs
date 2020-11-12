@@ -10,11 +10,14 @@ namespace FlappyBirdDemo.Web.Models
 
         public event PropertyChangedEventHandler PropertyChanged;
 
-        public BirdModel Bird { get; set; }
-        public bool IsRunning { get; set; } = false;
+        public BirdModel Bird { get; private set; }
+        public PipeModel Pipe { get; private set; }
+        public bool IsRunning { get; private set; } = false;
+
         public GameManager()
         {
             Bird = new BirdModel();
+            Pipe = new PipeModel();
         }
 
         public async void MainLoop()

@@ -89,7 +89,7 @@ using FlappyBirdDemo.Web.Models;
 #line default
 #line hidden
 #nullable disable
-    public partial class GameContainer : Microsoft.AspNetCore.Components.ComponentBase
+    public partial class Bird : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -97,17 +97,12 @@ using FlappyBirdDemo.Web.Models;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 11 "C:\Users\User\source\repos\FlappyBirdDemo\FlappyBirdDemo.Web\Components\GameContainer.razor"
-      
-    GameManager _gameManager;
+#line 3 "C:\Users\User\source\repos\FlappyBirdDemo\FlappyBirdDemo.Web\Components\Bird.razor"
+       
 
-    protected override void OnInitialized()
-    {
-        _gameManager = new GameManager();
-        _gameManager.PropertyChanged += (o, e) => StateHasChanged();
-    }
+    [Parameter] public BirdModel Model { get; set; }
 
-
+    string _birdCss => $"bottom: {Model.DistanceFromGround}px";
 
 #line default
 #line hidden
