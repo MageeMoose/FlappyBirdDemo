@@ -1637,20 +1637,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Magee\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\FlappyBirdDemo\\FlappyBirdDemo.Web\\FlappyBirdDemo.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Magee\\Documents\\GitHub\\FlappyBirdDemo\\FlappyBirdDemo.Web\\FlappyBirdDemo.Web.csproj",
       "projectName": "FlappyBirdDemo.Web",
-      "projectPath": "C:\\Users\\User\\source\\repos\\FlappyBirdDemo\\FlappyBirdDemo.Web\\FlappyBirdDemo.Web.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\FlappyBirdDemo\\FlappyBirdDemo.Web\\obj\\",
+      "projectPath": "C:\\Users\\Magee\\Documents\\GitHub\\FlappyBirdDemo\\FlappyBirdDemo.Web\\FlappyBirdDemo.Web.csproj",
+      "packagesPath": "C:\\Users\\Magee\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Magee\\Documents\\GitHub\\FlappyBirdDemo\\FlappyBirdDemo.Web\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Magee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
