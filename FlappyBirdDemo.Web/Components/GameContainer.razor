@@ -4,7 +4,9 @@
     <div class="sky">
         <Bird Model="_gameManager.Bird" />
     </div>
-    <div class="ground"></div>
+    <div class="ground">
+        <p>Score: @scoreCount.ToString()  </p> 
+    </div>
     @foreach (var pipe in _gameManager.Pipes)
     {
         <Pipe Model="pipe" />
@@ -19,6 +21,7 @@
     protected override void OnInitialized()
     {
         _gameManager = new GameManager();
+        _gameManager.ScorCount(scoreCount);
         _gameManager.MainLoopCompleted += (o, e) => StateHasChanged();
     }
 
@@ -27,6 +30,9 @@
         if (e.Key == " ")
             _gameManager.Jump();
     }
+
+    int scoreCount = 0;
+
 
 }
 

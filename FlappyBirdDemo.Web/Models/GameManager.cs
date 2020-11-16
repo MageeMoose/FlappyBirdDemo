@@ -30,6 +30,7 @@ namespace FlappyBirdDemo.Web.Models
             while(IsRunning)
             {
                 MoveObjects();
+                
                 CheckForCollisions();
                 ManagePipes();
 
@@ -81,6 +82,16 @@ namespace FlappyBirdDemo.Web.Models
                 MainLoop();
             }
            
+        }
+
+        public async void ScorCount(int s)
+        {
+            while (IsRunning)
+            {
+                s += 10;
+                
+                await Task.Delay(10);
+            }
         }
 
         public void Jump()

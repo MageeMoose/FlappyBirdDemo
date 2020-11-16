@@ -348,9 +348,6 @@ C:\Users\User\source\repos\FlappyBirdDemo\FlappyBirdDemo.Web\obj\Debug\netstanda
 C:\Users\User\source\repos\FlappyBirdDemo\FlappyBirdDemo.Web\obj\Debug\netstandard2.1\RazorDeclaration\Components\Pipe.razor.g.cs
 C:\Users\User\source\repos\FlappyBirdDemo\FlappyBirdDemo.Web\obj\Debug\netstandard2.1\Razor\Components\Bird.razor.g.cs
 C:\Users\User\source\repos\FlappyBirdDemo\FlappyBirdDemo.Web\obj\Debug\netstandard2.1\Razor\Components\Pipe.razor.g.cs
-C:\Users\User\source\repos\FlappyBirdDemo\FlappyBirdDemo.Web\obj\Debug\netstandard2.1\integrity\osYoWceSbeoKZuHKYYQ-w02taTk3guTyjBQRooCoz9k=.hash
-C:\Users\User\source\repos\FlappyBirdDemo\FlappyBirdDemo.Web\obj\Debug\netstandard2.1\integrity\PjisTJ275TRQZEtjzuKOrImlo3SCBMmMcY_1zgDUF0Y=.hash
-C:\Users\User\source\repos\FlappyBirdDemo\FlappyBirdDemo.Web\obj\Debug\netstandard2.1\integrity\nxvVuR9Fy118LymMTakYdd2i6uITF2MRJzv44EcBBUU=.hash
 C:\Users\Magee\Documents\GitHub\FlappyBirdDemo\FlappyBirdDemo.Web\bin\Debug\netstandard2.1\FlappyBirdDemo.Web.StaticWebAssets.xml
 C:\Users\Magee\Documents\GitHub\FlappyBirdDemo\FlappyBirdDemo.Web\bin\Debug\netstandard2.1\FlappyBirdDemo.Web.dll
 C:\Users\Magee\Documents\GitHub\FlappyBirdDemo\FlappyBirdDemo.Web\bin\Debug\netstandard2.1\FlappyBirdDemo.Web.pdb
@@ -704,3 +701,6 @@ C:\Users\Magee\Documents\GitHub\FlappyBirdDemo\FlappyBirdDemo.Web\obj\Debug\nets
 C:\Users\Magee\Documents\GitHub\FlappyBirdDemo\FlappyBirdDemo.Web\obj\Debug\netstandard2.1\integrity\UY7Wb-Nsdsy7R9ZSgaeOhtfKUIdxZhQQQD2QQglhw7Q=.hash
 C:\Users\Magee\Documents\GitHub\FlappyBirdDemo\FlappyBirdDemo.Web\obj\Debug\netstandard2.1\integrity\UJXdUhkahJbOpG-knKduuZFpqSc7R951o84dwhhESfE=.hash
 C:\Users\Magee\Documents\GitHub\FlappyBirdDemo\FlappyBirdDemo.Web\obj\Debug\netstandard2.1\integrity\iFfx9iWcC3TZjOjO7xR7iWTtULeCYlYsEhANinsmq_U=.hash
+C:\Users\User\source\repos\FlappyBirdDemo\FlappyBirdDemo.Web\obj\Debug\netstandard2.1\integrity\Pymu5tCc-_GUNRjAcV4gCRdRuGYZcIE0SG53P6J-yak=.hash
+C:\Users\User\source\repos\FlappyBirdDemo\FlappyBirdDemo.Web\obj\Debug\netstandard2.1\integrity\SGesl8zASycdpDtPHIc3lcd-Bh1ndFZY-lyFXWHCZvw=.hash
+C:\Users\User\source\repos\FlappyBirdDemo\FlappyBirdDemo.Web\obj\Debug\netstandard2.1\integrity\_vnnE70OoQuH34QByGC8gfRxF2qyH5BSFqkQve8-IP0=.hash
